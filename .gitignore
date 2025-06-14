@@ -1,0 +1,5 @@
+"**/.env" 
+
+# Ignore node_modules in root and all subfolders
+node_modules/
+*/node_modules/
